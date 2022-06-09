@@ -24,12 +24,12 @@
 ```javascript
 const aman = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C", "C++","Html","CSS"],
+    code: ["Javascript", "C", "C++", "Html", "CSS"],
     askMeAbout: ["web dev", "robotics"],
     technologies: {
         frontEnd: {
             js: ["ReactJS"],
-            css: [ "bootstrap"]
+            css: ["bootstrap"]
         },
         backEnd: {
             js: ["node", "express"]
