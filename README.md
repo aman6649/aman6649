@@ -35,7 +35,8 @@ const aman = {
             js: ["node", "express"]
         },
         databases: ["PostgreSql", "MySql"],
-        misc: ["Firebase"]
+        misc: ["Firebase"],
+    funfact:"Code never lies, Comments sometimes Do!!!"
     }
 };
 ```
