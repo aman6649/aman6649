@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aman Gupta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<h3 align="center">A passionate Web developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman6649&label=Profile%20views&color=0e75b6&style=flat" alt="aman6649" /> </p>
+
+
+<h1 align="center">Hi 👋, I'm Aman Gupta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h3 align="center"><em>A passionate Web developer from India! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </em></h3>
+
 
 - 🔭 I’m currently working on [Automated Project Registration](https://github.com/rianrishu/automated_project_registration)
 
@@ -37,5 +39,3 @@ const aman = {
     }
 };
 ```
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman6649&show_icons=true&locale=en&layout=compact" alt="aman6649" /></p>
